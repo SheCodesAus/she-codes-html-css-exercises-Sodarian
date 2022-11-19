@@ -1,0 +1,34 @@
+header{
+    height: 10%;
+}
+header h1{
+    color: #bc1818;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid green;
+    display: inline-block;
+  
+}
+header nav{
+    border: solid green;
+    float: right;
+    
+
+
+}
+
+#classyear{
+    text-align: center;
+}
+
+.column{
+    width: 29%;
+height: 250px;
+padding: 2%;
+display: inline-block;
+vertical-align: middle;
+}
+
+.column img{
+    height: 200px;
+    width: 300px;
+}

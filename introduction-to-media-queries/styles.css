@@ -18,15 +18,28 @@ div {
 }
 
 #div-2 {
-    background-color: #8fbc8b;
+    background-color: #9370db;
 }
 
 #div-3 {
-    background-color: #6495ed;
+    background-color: #9370db;
 }
 
 #div-4 {
-    background-color: #f5deb3;
+    background-color: #9370db;
 }
 
-/*** Your code here ***/
+@media (min-width:500px){
+    div{
+        display: inline-block;
+        width: 44%;
+    }
+}
+@media (max-width:900px){
+    div{
+        width: 10%;
+        font-size: x-large;
+        
+    
+    }
+}

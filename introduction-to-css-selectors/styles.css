@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&display=swap');
+
+div {
+    background-color: peachpuff;
+
+}
+
+.list-item{
+    background-color: darkseagreen;
+}
+
+.main-heading{
+    background-color: orange;
+}
+
+#first-paragraph {
+    background-color: lightcoral;
+}
+
+.nav-item{
+    background-color: #2dbb7e;
+}
+
+#nav-item3{
+    background-color: gold;
+}
+
+
+nav {
+    width: 100%;
+    border: 3px dashed orange;
+
+}
+
+
+header{
+    background-color: blueviolet;
+    font-family: 'Alkalami', serif;
+    font-size: 20px;
+
+}
+
+#your-id{
+    width: 300px;
+    height: 200px;
+    border: 3px dashed orange;
+
+}
+
+body{
+    background-color: lavender;
+
+
+}
